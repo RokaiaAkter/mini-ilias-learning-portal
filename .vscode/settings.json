@@ -1,0 +1,8 @@
+{
+  "php.validate.executablePath": "php",
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/vendor": true
+  }
+}
